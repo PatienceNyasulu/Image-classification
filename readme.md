@@ -21,8 +21,6 @@ This project is a simple and elegant web application built with [Streamlit](http
 ## 🔧 Setup Instructions
 
 ### 1. Clone the Repository
-
-```bash
 git clone https://github.com/your-username/streamlit-image-classifier.git
 cd streamlit-image-classifier
 
