@@ -35,7 +35,7 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 ### 4. Add Your Model
-# Make sure your trained model (your_model.h5) is in the project directory.
+#### Make sure your trained model (your_model.h5) is in the project directory.
 
 ### 5. Run the Streamlit App
 ```
