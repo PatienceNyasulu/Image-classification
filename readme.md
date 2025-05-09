@@ -10,14 +10,6 @@ This project is a simple and elegant web application built with [Streamlit](http
 - CNN-based image classification
 - Clean and minimalistic UI
 
-## 📁 Project Structure
-
-├── app.py # Streamlit app
-├── your_model.h5 # Trained CNN model
-├── requirements.txt # Python dependencies
-└── README.md # Project description
-
-
 ## 🔧 Setup Instructions
 
 ### 1. Clone the Repository
