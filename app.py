@@ -6,7 +6,7 @@ import tensorflow as tf
 # Load your trained model
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model("classifier_model1")  # Update with correct path
+    return tf.keras.models.load_model("classifier_model1.keras")  
 
 model = load_model()
 
